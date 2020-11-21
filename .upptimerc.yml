@@ -6,12 +6,6 @@ repo: githubmemory-upptime # Your Github repository name
 sites:
   - name: githubmemory
     url: https://githubmemory.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Secret Site
     url: $SECRET_SITE
 
@@ -19,6 +13,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
+  cname: upptime.githubmemory.com
   baseUrl: /githubmemory-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: githubmemory-upptime
