@@ -6,15 +6,10 @@ repo: githubmemory-upptime # Your Github repository name
 sites:
   - name: githubmemory
     url: https://githubmemory.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  #cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   cname: upptime.githubmemory.com
-  baseUrl: /githubmemory-upptime
+  #baseUrl: /githubmemory-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: githubmemory-upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -24,6 +19,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
