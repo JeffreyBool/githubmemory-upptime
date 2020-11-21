@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "githubmemory",
+    "url": "https://githubmemory.com",
+    "slug": "githubmemory",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 195
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 133
+    "time": 0
   },
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 341
+    "time": 0
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "99.28",
+    "uptime": "100.00",
     "time": 0
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 49
+    "time": 0
   }
 ]
