@@ -1,4 +1,4 @@
-# [📈 Live Status](https://JeffreyBool.github.io/githubmemory-upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://upptime.githubmemory.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [JeffreyBool](https://www.zhanggaoyuan.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://JeffreyBool.github.io/githubmemory-upptime)
+[**Visit our status website →**](https://upptime.githubmemory.com)
 
 ## 📄 License
 
