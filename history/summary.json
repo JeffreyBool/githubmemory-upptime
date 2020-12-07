@@ -2,6 +2,7 @@
   {
     "name": "githubmemory",
     "url": "https://githubmemory.com",
+    "icon": "https://favicons.githubusercontent.com/githubmemory.com",
     "slug": "githubmemory",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 1390,
-    "timeWeek": 601,
-    "timeMonth": 437,
-    "timeYear": 437
+    "time": 480,
+    "timeDay": 1382,
+    "timeWeek": 774,
+    "timeMonth": 480,
+    "timeYear": 480,
+    "dailyMinutesDown": {}
   }
 ]
