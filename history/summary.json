@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/githubmemory.com",
     "slug": "githubmemory",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "95.16%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 376,
-    "timeDay": 221,
-    "timeWeek": 211,
-    "timeMonth": 380,
-    "timeYear": 376,
+    "uptimeYear": "99.85%",
+    "time": 371,
+    "timeDay": 193,
+    "timeWeek": 208,
+    "timeMonth": 379,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2020-12-22": 70
     }
