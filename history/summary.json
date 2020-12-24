@@ -6,15 +6,15 @@
     "slug": "githubmemory",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "95.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.85%",
-    "time": 371,
-    "timeDay": 193,
-    "timeWeek": 208,
-    "timeMonth": 379,
-    "timeYear": 371,
+    "time": 367,
+    "timeDay": 182,
+    "timeWeek": 206,
+    "timeMonth": 382,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2020-12-22": 70
     }
