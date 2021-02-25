@@ -4,11 +4,11 @@
     "url": "https://githubmemory.com",
     "icon": "https://favicons.githubusercontent.com/githubmemory.com",
     "slug": "githubmemory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
     "time": 985,
     "timeDay": 10322,
@@ -16,7 +16,7 @@
     "timeMonth": 2276,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2021-02-25": 54,
+      "2021-02-25": 42,
       "2021-02-24": 36,
       "2020-12-22": 70
     }
